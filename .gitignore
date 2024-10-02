@@ -1,4 +1,4 @@
 .idea
 /out
 *.iml
-src/*.class
+src/com/boran/*.class
